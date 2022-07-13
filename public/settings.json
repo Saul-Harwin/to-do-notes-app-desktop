@@ -1,0 +1,10 @@
+{
+	"automaticLayout": true,
+	"files.autoSave": "onFocusChange",
+	"minimap": {
+		"enabled": false
+	},
+	"lineNumbers": "on",
+	"scrollBeyondLastLine": false,
+	"wordWrap": "on"
+}
